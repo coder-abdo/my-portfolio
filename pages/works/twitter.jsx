@@ -13,7 +13,7 @@ const Work = () => (
       <List ml={4} my={4}>
         <ListItem>
           <Meta>Website</Meta>
-          <Link href="https://t3-twiiter-clone.vercel.app/">
+          <Link target="_blank" href="https://t3-twiiter-clone.vercel.app/">
             https://t3-twiiter-clone.vercel.app/
           </Link>
         </ListItem>

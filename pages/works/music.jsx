@@ -15,7 +15,9 @@ const Work = () => (
       <List ml={4} my={4}>
         <ListItem>
           <Meta>Website</Meta>
-          <Link href="https://le415.csb.app/">https://le415.csb.app/</Link>
+          <Link target="_blank" href="https://le415.csb.app/">
+            https://le415.csb.app/
+          </Link>
         </ListItem>
         <ListItem>
           <Meta>Platform</Meta>
